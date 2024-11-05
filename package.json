@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-crash-course",
+  "version": "1.0.0",
+  "description": "Node.js crash course code",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrtbg96/nodejs-crash-course.git"
+  },
+  "keywords": [
+    "Node.js",
+    "JavaScript",
+    "Course"
+  ],
+  "author": "Mert Bağ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrtbg96/nodejs-crash-course/issues"
+  },
+  "homepage": "https://github.com/mrtbg96/nodejs-crash-course#readme"
+}
